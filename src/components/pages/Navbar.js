@@ -6,7 +6,7 @@ import "../style.css";
 function NavBar() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light position-sticky">
-        <Link className="navbar-brand" href="aboutme.html">
+        <Link className="navbar-brand" to="AboutMe">
           Shunpin Tseng
         </Link>
         <button
@@ -22,16 +22,16 @@ function NavBar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <Link className="nav-link active" href="aboutme.html">
+            <Link className="nav-link active" to="AboutMe">
               About Me<span className="sr-only"></span>
             </Link>
-            <Link className="nav-link" href="portfolio.html">
+            <Link className="nav-link" to="/Portfolio">
               Portfolio
             </Link>
-            <Link className="nav-link" href="resume.html">
+            <Link className="nav-link" to="/Resume">
               Resume
             </Link>
-            <Link className="nav-link" href="contact.html">
+            <Link className="nav-link" to="/Contact">
               Contact
             </Link>
           </div>
