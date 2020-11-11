@@ -13,20 +13,20 @@ function Resume() {
         <article>
             <h2>Education</h2>
             <h5>University of Washington; Seattle, WA </h5>
-            <h6> Professional & Continuing education
+            <h6> Professional and Continuing education
                 Coding Bootcamp - Full Stack WebDevelopment</h6>
 
             <h5>Autodesk University; Las Vegas NV</h5>
             <h6>User Experience Design Course</h6>
 
             <h5>General Assembly; San Francisco CA</h5>
-            <h6>Professional & Continuing education</h6>
+            <h6>Professional and Continuing education</h6>
 
             <h5>University of Oregon, Department of Architecture; Eugene OR</h5>
             <h6>Master of Interior Architecture</h6>
 
             <h5>Fu-Jen Catholic, Department of Applied Art;Taiwan</h5>
-            <h6>Bachelor of Fine Art, concentration in Interior Design & Graphic Design</h6>
+            <h6>Bachelor of Fine Art, concentration in Interior Design and Graphic Design</h6>
 
         </article>
 
@@ -34,8 +34,8 @@ function Resume() {
 
         <article>
             <h2>Work Experiences</h2>
-            <h5>Gensler; Seattle, WA & San Francisco CA</h5>            
-            <h5>Studio Design Performance Lead & Project BIM Lead</h5>
+            <h5>Gensler; Seattle, WA and San Francisco CA</h5>            
+            <h5>Studio Design Performance Lead and Project BIM Lead</h5>
             <h6>February, 2005 - April, 2015; May, 2018-April, 2020</h6>
             <h6>Responsibilities</h6>
             <ul>
@@ -43,7 +43,7 @@ function Resume() {
                 <li>Concept and schematic design</li>
                 <li>Development of User-specific template for Revit</li>
                 <li>Streamlining of drawing production in Revit</li>
-                <li>Construction documentation & Construction administration</li>
+                <li>Construction documentation and Construction administration</li>
             </ul>
 
             <h5>NBBJ; Seattle, WA</h5>            
@@ -85,7 +85,7 @@ function Resume() {
         <hr/>
 
         <article>
-            <h2>Awards & Scholarships</h2>
+            <h2>Awards and Scholarships</h2>
             <ul>
                 <li>Interior Design Magazine, Best of Year 2015 Merit Award Winner, Visa, San Francisco</li>
                 <li>Interior Design Magazine, Best of Year 2008 Merit Award Winner, Edelman, Seattle </li>
