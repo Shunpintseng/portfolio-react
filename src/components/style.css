@@ -1,0 +1,131 @@
+/*custom css for portfolio*/
+
+body{
+  background-image: url("./images/bkimg_round.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;   
+}    
+
+/* customed nav bar css setting, had an issue with image running on top of nav bar, a z-index is added to correct the image overlaping issue*/
+nav{ 
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+hr{
+  margin-bottom: 2%;
+  background-color:gray;
+}
+
+h1{
+  font-size: 3rem;
+  font-weight:bolder;
+  padding: 1%;
+  color: grey
+}
+
+footer{
+  position: sticky;
+  bottom: 0;
+  background-color:lightslategray;
+  width: 100%;
+  padding: 1%;
+  margin-bottom:0;        
+}
+
+.col img{
+  padding: 2%;
+} 
+
+.bg-light {
+  background-color: #adaeb0!important;
+}
+
+.navbar-brand{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  font-weight:bolder;
+}  
+
+.navbar-nav{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight:bolder;
+  text-align: right;
+}  
+
+.facepic{
+  widows: 20% v;
+  float:left;
+}
+
+/* customed setting refer to original bootstrap css code for additional changes*/
+.container-fluid{
+  background: rgba(236, 236, 236, 0.794);
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  width: 70%;
+  padding-left:2%;
+  padding-right:2%;
+  padding-bottom:5%;
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+
+/* ID is used for style updates */
+.container-fluid #headshot{
+  width: 20vmax;
+  height:auto;
+  float: left;
+  margin-right:2%;    
+}
+
+.messagebox{
+  margin-top:16px;
+  margin-bottom:16px;
+}
+
+.textarea{
+  display: block;
+  width: 100%;
+  height: calc(20em + .75rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn{
+  background-color: gray;
+  border-color: gray;
+  margin-top:16px
+}
+
+/* ID is used for style updates */
+#logo{
+  display: block;
+  height: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .container-fluid {
+      width: fit-content;
+      margin-right:5%;        
+  }
+}
+.col {
+    display: inline-block;
+    border: 1px solid;
+    position: absolute;
+}
