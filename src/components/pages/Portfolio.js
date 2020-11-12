@@ -16,7 +16,7 @@ export default class Portfolio extends Component {
     <section className="container-fluid">
 
     <h1>Portfolio</h1>
-    <h6>Here are some of my web development projects!</h6>
+    <h3>Here are some of my web development projects!</h3>
     <hr/>
     {this.state.Projects.map(Project => (
           <ProjectCard

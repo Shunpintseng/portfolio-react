@@ -74,7 +74,7 @@ function Resume() {
         <article>
             <h2>Software Skills</h2>
             <ul>
-                <li>Software Languages: HTML, CSS, JavaScript, Node</li>
+                <li>Software Languages: HTML, CSS, JavaScript, Node, React</li>
                 <li>Architecture: Revit 2020(Revit certified Professional), AutoCAD, 3D Max Studio, Rhyno 3D</li>
                 <li>Graphic Design: Illustrator, Photoshop, InDesign</li>
                 <li>UX Prototype: Sketch, OmniGraffle, Axure, Flinto, Pop</li>
