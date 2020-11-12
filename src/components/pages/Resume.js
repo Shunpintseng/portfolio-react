@@ -36,7 +36,7 @@ function Resume() {
             <h2>Work Experiences</h2>
             <h5>Gensler; Seattle, WA and San Francisco CA</h5>            
             <h5>Studio Design Performance Lead and Project BIM Lead</h5>
-            <h6>February, 2005 - April, 2015; May, 2018-April, 2020</h6>
+            <h6>February, 2007 - April, 2015; May, 2018-April, 2020</h6>
             <h6>Responsibilities</h6>
             <ul>
                 <li>Workplace design user research and design strategy</li>
@@ -58,7 +58,7 @@ function Resume() {
             </ul>
 
             <h5>BOORA Architects; Portland OR</h5>            
-            <h5>Junior Designer</h5>
+            <h5>Intern/ Junior Designer</h5>
             <h6>June, 2005 - January, 2007</h6>
             <h6>Responsibilities</h6>
             <ul>
