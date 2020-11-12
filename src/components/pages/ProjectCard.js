@@ -11,7 +11,6 @@ export default function ProjectCard (props) {
         <div className="overlay">
                     <a href={props.GitHub}><img src="/images/GitHubIcon.png" alt={props.name}  /></a>
         </div>
-
     </div>
 
         
