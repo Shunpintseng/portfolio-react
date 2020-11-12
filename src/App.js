@@ -3,6 +3,7 @@ import Navbar from "./components/pages/Navbar";
 import AboutMe from "./components/pages/AboutMe";
 import Contact from "./components/pages/Contact";
 import Resume from "./components/pages/Resume"
+import Portfolio from "./components/pages/Portfolio"
 import Footer from "./components/pages/Footer"
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -27,6 +28,10 @@ function App() {
 
           <Route path ="/Resume">
             <Resume /> 
+          </Route>
+
+          <Route path ="/Portfolio">
+            <Portfolio /> 
           </Route>
 
         </Switch>
