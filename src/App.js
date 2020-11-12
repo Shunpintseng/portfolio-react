@@ -3,6 +3,7 @@ import Navbar from "./components/pages/Navbar";
 import AboutMe from "./components/pages/AboutMe";
 import Contact from "./components/pages/Contact";
 import Resume from "./components/pages/Resume"
+import Footer from "./components/pages/Footer"
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
@@ -29,6 +30,8 @@ function App() {
           </Route>
 
         </Switch>
+
+        <Footer />
       </Router>
     </div>
   );
